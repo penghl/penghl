@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm Huang Liupeng, 👋 a postgraduate student. I'm currently studying machine learning.
 
 <!--
 **penghl/penghl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
